@@ -1,0 +1,14 @@
+c:\users\andrzej\documents\visual studio 2015\Projects\atakufo\atakufo\bin\Debug\atakufo.exe.config
+C:\Users\Andrzej\documents\visual studio 2015\Projects\atakufo\atakufo\bin\Debug\atakufo.exe
+C:\Users\Andrzej\documents\visual studio 2015\Projects\atakufo\atakufo\bin\Debug\atakufo.pdb
+C:\Users\Andrzej\documents\visual studio 2015\Projects\atakufo\atakufo\obj\Debug\atakufo.csprojResolveAssemblyReference.cache
+C:\Users\Andrzej\documents\visual studio 2015\Projects\atakufo\atakufo\obj\Debug\MainWindow.g.cs
+C:\Users\Andrzej\documents\visual studio 2015\Projects\atakufo\atakufo\obj\Debug\App.g.cs
+C:\Users\Andrzej\documents\visual studio 2015\Projects\atakufo\atakufo\obj\Debug\atakufo_MarkupCompile.cache
+C:\Users\Andrzej\documents\visual studio 2015\Projects\atakufo\atakufo\obj\Debug\atakufo_MarkupCompile.lref
+C:\Users\Andrzej\documents\visual studio 2015\Projects\atakufo\atakufo\obj\Debug\MainWindow.baml
+C:\Users\Andrzej\documents\visual studio 2015\Projects\atakufo\atakufo\obj\Debug\atakufo.g.resources
+C:\Users\Andrzej\documents\visual studio 2015\Projects\atakufo\atakufo\obj\Debug\atakufo.Properties.Resources.resources
+C:\Users\Andrzej\documents\visual studio 2015\Projects\atakufo\atakufo\obj\Debug\atakufo.csproj.GenerateResource.Cache
+C:\Users\Andrzej\documents\visual studio 2015\Projects\atakufo\atakufo\obj\Debug\atakufo.exe
+C:\Users\Andrzej\documents\visual studio 2015\Projects\atakufo\atakufo\obj\Debug\atakufo.pdb
